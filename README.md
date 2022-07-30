@@ -22,7 +22,7 @@
 
 ![get](https://user-images.githubusercontent.com/72878786/181936659-1245fc02-ec66-4c14-b6ae-665bcac8560c.png)
 
--Post
+- Post
 
 
 ![Post](https://user-images.githubusercontent.com/72878786/181936678-570ead05-50e7-404a-90b5-23a564049672.png)
@@ -33,7 +33,7 @@
 ![put](https://user-images.githubusercontent.com/72878786/181936687-b6a9eae6-c6da-46cc-9815-ccdd10c1b01d.png)
 
 - Delete
-- 
+
 
 ![delete](https://user-images.githubusercontent.com/72878786/181936691-9817f982-4022-49a5-b59d-5a4187ca4756.png)
 
