@@ -61,6 +61,10 @@
 
 
 
+## Projenin Ayağa Kaldırılması
 
 
+- Önce Backend için API klasörünü Visual Studio'da açarak Backendi ayağa kaldırıyoruz
+
+- Sonra Frontend için UI Klasörüne girip cards ın içine girip npm aracılığı ile gereken modülleri indiriyoruz (npm install) sonrasında projemiz ayağa kaldırılmaya hazır oluyor ve npm start ile Frontendi başlatıyoruz
 
